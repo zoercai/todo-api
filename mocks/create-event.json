@@ -1,0 +1,8 @@
+{
+	"body": "{\"content\":\"hello world\",\"id\":123,\"lat\":\" -36.72589070000000077698\",\"long\":\"174.74552649999998266139\"}",
+		"requestContext": {
+			"identity": {
+				"cognitoIdentityId": "USER-SUB-1234"
+			}
+		}
+}
